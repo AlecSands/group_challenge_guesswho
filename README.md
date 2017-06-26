@@ -5,6 +5,6 @@
 --[X] Assign data id to each div
 --[] Create prompt
 --[] Create random function
---[] Click listener for picture
+--[X] Click listener for picture
 --[] IF/Else statement OR switch statement -- this compares id of pic to id of random name
 --[]  
